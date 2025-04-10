@@ -17,7 +17,6 @@ An MCP (Model Context Protocol) server that acts as a wrapper around the `dpdisp
 1.  **Prerequisites**:
     *   Python 3.x
     *   `dpdispatcher` library installed (`pip install dpdispatcher`)
-    *   If using Bohrium: `pip install dpdispatcher[bohrium]`
     *   `mcp` library installed (`pip install mcp`)
     *   `anyio` library installed (`pip install anyio`)
 
